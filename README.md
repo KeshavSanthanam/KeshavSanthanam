@@ -1,5 +1,8 @@
-Primary Languages: C, C++, Java, Python, React Native
-Additional Languages: MIPS32, JavaScript, Racket, Haskell, Prolog
+
+## Primary Languages:
+C, C++, Java, Python, React Native
+## Additional Languages:
+MIPS32, JavaScript, Racket, Haskell, Prolog
 
 <!---
 KeshavSanthanam/KeshavSanthanam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
