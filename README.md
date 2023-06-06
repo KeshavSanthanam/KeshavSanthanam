@@ -4,7 +4,7 @@ C, C++, Java, Python, React Native
 ## Additional Languages:
 MIPS32, JavaScript, Racket, Haskell, Prolog
 ## Site
-https://github.com/KeshavSanthanam/KeshavSanthanam.github.io
+https://keshavsanthanam.github.io/
 
 <!---
 KeshavSanthanam/KeshavSanthanam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
