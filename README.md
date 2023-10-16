@@ -1,8 +1,8 @@
 
 ## Primary Languages:
-C, C++, Java, Python, React Native
+Python, C, C++, Java, React Native
 ## Additional Languages:
-MIPS32, JavaScript, Racket, Haskell, Prolog
+MIPS32, JavaScript, Racket, Haskell, Prolog, PHP, HTML, CSS
 ## Site
 https://keshavsanthanam.github.io/
 
