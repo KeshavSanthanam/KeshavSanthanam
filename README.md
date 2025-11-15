@@ -1,8 +1,6 @@
+## About
+I make apps that help you become more productive. 
 
-## Primary Languages:
-Python, C, C++, Java, React Native
-## Additional Languages:
-MIPS32, JavaScript, Racket, Haskell, Prolog, PHP, HTML, CSS
 ## Site
 https://keshavsanthanam.github.io/
 
