@@ -2,7 +2,7 @@
 I make apps that help you become more productive. 
 
 ## Site
-https://keshavsanthanam.github.io/
+https://www.keshavsanthanam.com/
 
 <!---
 KeshavSanthanam/KeshavSanthanam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
