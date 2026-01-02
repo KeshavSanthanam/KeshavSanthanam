@@ -1,7 +1,5 @@
-## About
-I make apps that help you become more productive. 
-
 ## Site
+
 https://www.keshavsanthanam.com/
 
 <!---
